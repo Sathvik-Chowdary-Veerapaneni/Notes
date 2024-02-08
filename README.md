@@ -1,1 +1,1 @@
-1. [Dimensionality Reduction Notes](https://sathvik-chowdary-veerapaneni.notion.site/Dimensionality-Reduction-2b696da4b92645f79de5b3da319a88ac)
+1. [Dimensionality Reduction Notes](https://sathvik-chowdary-veerapaneni.notion.site/Dimensionality-Reduction-2b696da4b92645f79de5b3da319a88ac) [Noteook](https://github.com/Sathvik-Chowdary-Veerapaneni/Notes/blob/main/Notebooks/Dimensionality_Reduction.ipynb)
